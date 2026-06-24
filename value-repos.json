@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "description": "Repos promoted into the ranked value tier — discovered to hold concrete, build-out-worthy latent value.",
+  "ranked": [
+    {
+      "repo": "organvm/vigiles-aeternae--agon-cosmogonicum",
+      "promoted": "2026-06-24",
+      "source": "auto-discovery",
+      "tier": "infrastructure",
+      "value": "A governance-as-code engine that turns mythological regime lenses into structured registry health audits, preserves immutable audit chronologies, and surfaces consensus candidates across multiple audits.",
+      "first_task": "Stabilize engine execution paths and data contracts for non-local deployment by replacing hard-coded filesystem assumptions with configurable CLI/env inputs and publishing structured JSON output contracts.",
+      "thesis": "DISCOVERY.md"
+    }
+  ]
+}
